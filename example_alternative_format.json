@@ -1,0 +1,24 @@
+{
+  "name": "Alternative Format Test",
+  "description": "Testing alternative field names",
+  "songs": [
+    {
+      "id": "alt1",
+      "title": "Alternative Song 1",
+      "artist": "Alternative Artist 1",
+      "album": "Alternative Album 1",
+      "duration": 200000,
+      "source": "youtube",
+      "url": "https://youtube.com/watch?v=example1"
+    },
+    {
+      "id": "alt2",
+      "title": "Alternative Song 2", 
+      "artist": "Alternative Artist 2",
+      "album": "Alternative Album 2",
+      "duration": 250000,
+      "source": "spotify",
+      "url": "https://spotify.com/track/example2"
+    }
+  ]
+}

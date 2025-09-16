@@ -1,0 +1,25 @@
+{
+  "name": "My Favorite Songs",
+  "description": "A collection of my favorite tracks",
+  "version": "1.0",
+  "list": [
+    {
+      "id": "song1",
+      "name": "Sample Song 1",
+      "singer": "Artist One",
+      "album": "Album One",
+      "interval": 240000,
+      "source": "local",
+      "url": ""
+    },
+    {
+      "id": "song2", 
+      "name": "Sample Song 2",
+      "singer": "Artist Two",
+      "album": "Album Two", 
+      "interval": 180000,
+      "source": "streaming",
+      "url": "https://example.com/song2"
+    }
+  ]
+}
